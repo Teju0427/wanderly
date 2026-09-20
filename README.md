@@ -6,7 +6,7 @@ Wanderly is a premium travel discovery front end — a fictional product built t
 
 ## Live demo
 
-> Add your deployed Render URL here once live, e.g. `https://wanderly.onrender.com`
+> https://wanderly-wb2c.onrender.com/
 
 ## Features
 
